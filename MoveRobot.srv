@@ -1,0 +1,9 @@
+
+#RobotPosition target_position
+# Define la solicitud del servicio MoveRobot
+bool linear
+float64 value
+---
+bool success
+
+

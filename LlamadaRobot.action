@@ -1,0 +1,18 @@
+
+
+
+# Definición del objetivo
+
+float32 value
+bool linear
+
+# Definición del resultado
+---
+bool success
+
+# Definición del feedback
+---
+float32 distance_to_target
+float32 angle_to_target
+# Fin de la definición del feedback
+
